@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Viraj Dhas — AI and GenAI Engineer</title>
+  <desc id="desc">A minimal dark navy banner with the name Viraj Dhas and focus areas Python, GenAI, RAG, and Voice AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101827"/>
+      <stop offset="100%" stop-color="#172d43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#5eead4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1040" cy="40" r="180" fill="#60a5fa" opacity=".08"/>
+  <circle cx="1120" cy="270" r="190" fill="#5eead4" opacity=".06"/>
+  <path d="M0 245 C240 205 360 290 600 240 S960 205 1200 245" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".45"/>
+  <rect x="72" y="66" width="7" height="150" rx="3.5" fill="url(#accent)"/>
+  <text x="110" y="130" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Viraj Dhas</text>
+  <text x="112" y="177" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="500">AI / GenAI Engineer  ·  Python Backend Developer</text>
+  <text x="112" y="220" fill="#7dd3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2">PYTHON  /  FASTAPI  /  LLMs  /  RAG  /  VOICE AI</text>
+</svg>
